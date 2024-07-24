@@ -32,5 +32,17 @@
             <artifactId>okhttp</artifactId>
             <version>4.9.3</version>
         </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-controls</artifactId>
+            <version>17.0.2</version>
+            <classifier>mac</classifier>
+        </dependency>
+        <dependency>
+            <groupId>org.openjfx</groupId>
+            <artifactId>javafx-fxml</artifactId>
+            <version>17.0.2</version>
+            <classifier>mac</classifier>
+        </dependency>
     </dependencies>  
 </project>
