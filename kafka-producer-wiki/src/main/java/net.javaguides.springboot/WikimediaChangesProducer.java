@@ -1,3 +1,4 @@
+package net.javaguides.springboot;
 
 import java.net.URI;
 import java.util.concurrent.TimeUnit;
